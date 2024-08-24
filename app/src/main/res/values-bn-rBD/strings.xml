@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">প্রোটিক এর আবেদন</string>
+    <string name="reset">রিসেট</string>
+    <string name="fall">পতন</string>
+    <string name="climb">আরোহণ</string>
+    <string name="score">স্কোর</string>
+</resources>

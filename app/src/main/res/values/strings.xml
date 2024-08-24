@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Protick\'s Application</string>
+    <string name="reset">Reset</string>
+    <string name="fall">Fall</string>
+    <string name="climb">Climb</string>
+    <string name="score">Score</string>
+</resources>
